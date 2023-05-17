@@ -1,0 +1,22 @@
+
+
+body{
+background-color: rgb(227, 227, 227);
+}
+.tab td,th{
+background-color: rgb(244, 244, 244);
+padding: 3px;
+}
+.tab{
+	border-collapse: collapse;
+}
+.erreur{
+	color: #ff0000;
+}
+.succes{
+	color: #006400;
+}
+.div{
+	background-color: coral;
+}
+ 
